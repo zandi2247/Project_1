@@ -16,7 +16,7 @@ This Portion of the project is writing a query in MYSQL to join different tables
 
 - <b>macOS Monterey Version 12.5.1</b>
 
-<h2>Program walk-through:</h2>
+<h2>Query code and Report Produced:</h2>
 
 <p align="center">
 Selecting the tables and creating the Alias for the point systems for all categories : <br/>
